@@ -10,6 +10,14 @@ tags: [Vibe Coding, Python, Streamlit, Folium, 数据看板, 高德地图]
 
 > 本文是课程作业的第二篇，记录实验二（数据看板的设计与实现）的完整实现：需求分析、技术选型、核心功能开发、踩坑与复盘。
 
+## 🚌 在线体验
+
+项目已部署到 Streamlit Community Cloud，可直接在线查看完整看板：
+
+👉 [**校园地图与天气数据看板（在线版）**](https://campusdashboardmap-2fkcmvsprdpzxxvjumj7uy.streamlit.app/)
+
+> 说明：免费版在长时间未访问后会自动休眠，点击链接后约需 10~30 秒唤醒启动，请稍等片刻。
+
 ## 实验背景
 
 本次实验要求设计并实现一个数据看板，掌握从需求分析、版面设计、数据处理到看板落地的完整流程。基础任务包括：
