@@ -3,3 +3,4 @@ description: Python 课程作业 · Vibe Coding 实操记录
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-cayman
+permalink: /:year/:month/:day/:title.html
