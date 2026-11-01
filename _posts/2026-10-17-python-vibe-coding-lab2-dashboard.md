@@ -2,7 +2,7 @@
 layout: default
 title: Vibe Coding 实操 Lab2：校园地图与天气数据看板
 date: 2026-10-17
-categories: Python 课程作业
+categories: 实验内容
 tags: [Vibe Coding, Python, Streamlit, Folium, 数据看板, 高德地图]
 ---
 
@@ -16,7 +16,9 @@ tags: [Vibe Coding, Python, Streamlit, Folium, 数据看板, 高德地图]
 
 👉 [**校园地图与天气数据看板（在线版）**](https://campusdashboardmap-2fkcmvsprdpzxxvjumj7uy.streamlit.app/)
 
-> 说明：免费版在长时间未访问后会自动休眠，点击链接后约需 10~30 秒唤醒启动，请稍等片刻。
+👉 [**项目源码仓库（GitHub）**](https://github.com/qls-study-blog/campus_dashboard_map)
+
+> 说明：免费版在长时间未访问后会自动休眠，点击链接后约需 10~30 秒唤醒启动，请稍等片刻。博客仓库只记录文章，完整工程代码放在独立的实验项目仓库中。
 
 ## 实验背景
 

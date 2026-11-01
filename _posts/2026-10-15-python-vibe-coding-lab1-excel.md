@@ -2,7 +2,7 @@
 layout: default
 title: Vibe Coding 实操 Lab1（一）：Excel 报表生成脚本
 date: 2026-10-15
-categories: Python 课程作业
+categories: 实验内容
 tags: [Vibe Coding, Python, pandas, Excel]
 ---
 
@@ -292,10 +292,18 @@ $ pytest
 
 > 📎 项目结构：
 > ```
-> excel_vibe/
+> excel-report-lab1/
 > ├── data/sales_raw.xlsx      # 原始样例数据
 > ├── output/report.xlsx       # 生成报表
 > ├── src/sales_report.py      # 核心代码
 > ├── tests/test_excel.py      # 测试用例
 > └── docs/                    # 需求澄清、AI对话记录、复盘
 > ```
+
+## 源码仓库
+
+本实验独立成一个项目仓库，完整代码、样例数据、测试与过程文档见：
+
+👉 [**excel-report-lab1**（GitHub 源码）](https://github.com/qls-study-blog/excel-report-lab1)
+
+> 说明：博客仓库只记录文章与截图，完整工程代码统一放在独立的实验项目仓库中。
