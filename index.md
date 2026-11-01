@@ -12,6 +12,8 @@ layout: default
 
 - [Vibe Coding 实操 Lab1（一）：Excel 报表生成脚本](./2026/10/15/python-vibe-coding-lab1-excel.html)
   - 源码仓库：[excel-report-lab1](https://github.com/qls-study-blog/excel-report-lab1)
+- [Vibe Coding 实操 Lab1（二）：FastAPI 简易记账接口](./2026/11/01/python-vibe-coding-lab1-fastapi-expense.html)
+  - 源码仓库：[fastapi-expense-tracker-lab1](https://github.com/qls-study-blog/fastapi-expense-tracker-lab1)
 - [Vibe Coding 实操 Lab2：校园地图与天气数据看板](./2026/10/17/python-vibe-coding-lab2-dashboard.html)
   - 源码仓库：[campus_dashboard_map](https://github.com/qls-study-blog/campus_dashboard_map)
   - 在线演示：[校园地图与天气数据看板](https://campusdashboardmap-2fkcmvsprdpzxxvjumj7uy.streamlit.app/)
@@ -29,6 +31,7 @@ layout: default
 |------|------|------|
 | 博客 | [qls-study-blog.github.io](https://github.com/qls-study-blog/qls-study-blog.github.io) | 只存放文章、截图与博客配置 |
 | 实验项目 | [excel-report-lab1](https://github.com/qls-study-blog/excel-report-lab1) | Lab1 Excel 报表脚本 |
+| 实验项目 | [fastapi-expense-tracker-lab1](https://github.com/qls-study-blog/fastapi-expense-tracker-lab1) | Lab1 FastAPI 记账接口 |
 | 实验项目 | [campus_dashboard_map](https://github.com/qls-study-blog/campus_dashboard_map) | Lab2 校园地图天气看板 |
 | 课堂作业 | [python-homework](https://github.com/qls-study-blog/python-homework) | 全部课堂日常作业合集 |
 
