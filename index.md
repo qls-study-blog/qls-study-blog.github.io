@@ -17,6 +17,8 @@ layout: default
 - [Vibe Coding 实操 Lab2：校园地图与天气数据看板](./2026/10/17/python-vibe-coding-lab2-dashboard.html)
   - 源码仓库：[campus_dashboard_map](https://github.com/qls-study-blog/campus_dashboard_map)
   - 在线演示：[校园地图与天气数据看板](https://campusdashboardmap-2fkcmvsprdpzxxvjumj7uy.streamlit.app/)
+- [Python 实验（三）：列表、元组、集合深度探究](./2026/11/05/python-lab3-list-tuple-set.html)
+  - 源码仓库：[python-lab3-containers](https://github.com/qls-study-blog/python-lab3-containers)
 
 ## 📝 课堂日常作业
 
@@ -33,6 +35,7 @@ layout: default
 | 实验项目 | [excel-report-lab1](https://github.com/qls-study-blog/excel-report-lab1) | Lab1 Excel 报表脚本 |
 | 实验项目 | [fastapi-expense-tracker-lab1](https://github.com/qls-study-blog/fastapi-expense-tracker-lab1) | Lab1 FastAPI 记账接口 |
 | 实验项目 | [campus_dashboard_map](https://github.com/qls-study-blog/campus_dashboard_map) | Lab2 校园地图天气看板 |
+| 实验项目 | [python-lab3-containers](https://github.com/qls-study-blog/python-lab3-containers) | 实验三 列表元组集合 |
 | 课堂作业 | [python-homework](https://github.com/qls-study-blog/python-homework) | 全部课堂日常作业合集 |
 
 ## 关于
